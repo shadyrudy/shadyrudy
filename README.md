@@ -1,10 +1,11 @@
 ### Hi there 👋
 ### I'm Rudy Rodarte
-![After the 2020 Austin Half Marathon](/images/2020_Post_Marathon.jpg)
-🔭 I’m currently working on SQL Server 2016 Certification
-📫 How to reach me: [@shadyrudy](http://www.twitter.com/shadyrudy) on twitter.
-😄 Pronouns: He/Him
-⚡ Fun fact: I'm a huge fan of WWE
+![After the 2020 Austin Half Marathon](/images/2020_Post_Marathon.jpg)  
+🔭 I’m currently working on SQL Server 2016 Certification  
+🌱 I’m currently learning Python with my daughter, Typescript, and Node JS  
+📫 How to reach me: [@shadyrudy](http://www.twitter.com/shadyrudy) on twitter.  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I'm a huge fan of WWE  
 <!--
 **shadyrudy/shadyrudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
