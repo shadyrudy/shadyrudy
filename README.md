@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Rudy Rodarte
-![After the 2020 Austin Half Marathon](/images/2020_Post_Marathon.jpg)  
+![After the 2020 Austin Half Marathon](https://github.com/shadyrudy/shadyrudy/blob/master/images/2020_Post_Marathon.jpg)  
 🔭 I’m currently working on SQL Server 2016 Certification  
 🌱 I’m currently learning Python with my daughter, Typescript, and Node JS  
 📫 How to reach me: [@shadyrudy](http://www.twitter.com/shadyrudy) on twitter.  
