@@ -11,7 +11,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SQL Server 2016 Certification
 - 🌱 I’m currently learning Typescript, Node JS, and Python with my daughter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
